@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1646339878 source:c:\users\zenil\documents\estudos\ed1\revisão ca\jumpofthehorse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"menu.h"
+	"matrizes.h"
+
+1646340978 c:\users\zenil\documents\estudos\ed1\revisão ca\jumpofthehorse\menu.h
+	<stdio.h>
+
+1646340439 source:c:\users\zenil\documents\estudos\ed1\revisão ca\jumpofthehorse\menu.c
+	"menu.h"
+
+1646360622 source:c:\users\zenil\documents\estudos\ed1\revisão ca\jumpofthehorse\matrizes.c
+	"matrizes.h"
+	<stdio.h>
+
+1646331326 c:\users\zenil\documents\estudos\ed1\revisão ca\jumpofthehorse\matrizes.h
+
+1646339878 source:c:\users\zenil\documents\estudos\ed1\revisão ca\q1 - jumpofthehorse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"menu.h"
+	"matrizes.h"
+
+1646340978 c:\users\zenil\documents\estudos\ed1\revisão ca\q1 - jumpofthehorse\menu.h
+	<stdio.h>
+
+1646331326 c:\users\zenil\documents\estudos\ed1\revisão ca\q1 - jumpofthehorse\matrizes.h
+
+1646360622 source:c:\users\zenil\documents\estudos\ed1\revisão ca\q1 - jumpofthehorse\matrizes.c
+	"matrizes.h"
+	<stdio.h>
+
+1646339878 source:c:\users\zenil\documents\estudos\ed1\revisão ca\trab1a_gabrielsilvino_fabioaguiar\q1 - jumpofthehorse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"menu.h"
+	"matrizes.h"
+
+1646340978 c:\users\zenil\documents\estudos\ed1\revisão ca\trab1a_gabrielsilvino_fabioaguiar\q1 - jumpofthehorse\menu.h
+	<stdio.h>
+
+1646331326 c:\users\zenil\documents\estudos\ed1\revisão ca\trab1a_gabrielsilvino_fabioaguiar\q1 - jumpofthehorse\matrizes.h
+
+1646360622 source:c:\users\zenil\documents\estudos\ed1\revisão ca\trab1a_gabrielsilvino_fabioaguiar\q1 - jumpofthehorse\matrizes.c
+	"matrizes.h"
+	<stdio.h>
+
+1646410849 source:c:\users\zenil\documents\estudos\ed1\revisão ca\trab1a_gabrielsilvino_fabioaguiar\q1 - jumpofthehorse\menu.c
+	"menu.h"
+
